@@ -12,14 +12,14 @@
       "species" : "Cat",
       "favFoods" : ["wet food", "dry food", "bugs", "<strong>all the food!!</strong> "],
       "age" : 2,
-      "photo" : "https://kuwarrdua.github.io/Comp1073FinalExam/assets/stevie.jpg"
+      "photo" : "https://kuwarrdua.github.io/Comp1073FinalExam/assets/shadow.jpg"
     },
     {
       "name" : "Zoey",
       "species" : "Cat",
       "favFoods" : ["catfood", "catnip", "cream"],
       "age" : 13,
-      "photo" : "https://kuwarrdua.github.io/Comp1073FinalExam/assets/stevie.jpg"
+      "photo" : "https://kuwarrdua.github.io/Comp1073FinalExam/assets/zoey.jpg"
     }
   ]
 }
